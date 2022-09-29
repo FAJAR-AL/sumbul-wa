@@ -10,7 +10,6 @@ print("[=]------------------[=]")
 nomer = input("Nomor WA Target : ")
 jumlah = int(input("Jumlah Spam YG Akan Dikirim : "))
 for k in range(jumlah):
-print("tunggu ygy tools sedang berjalan...")
   k += 1
   head = {
   "Host": "api.qoalaplus.com",
